@@ -1,0 +1,5 @@
+*.swp
+dotvim/
+vim74/
+vimfiles/bundle/
+_*
